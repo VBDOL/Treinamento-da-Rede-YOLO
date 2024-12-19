@@ -1,4 +1,5 @@
 # Criação de Uma Base de Dados e Treinamento da Rede YOLO
+![Exemplo de Imagem](yolo.png)
 
 ## Descrição do Desafio
 
